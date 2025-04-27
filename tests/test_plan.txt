@@ -1,0 +1,47 @@
+Non-Leap Into Leap
+(2023 Into 2024)
+==================
+Start Date | End Date 
+-----------+---------
+Dec 29     | Jan 1 
+Dec 29     | Jan 29
+Dec 29     | Jan 30
+Dec 29     | Jan 31
+Dec 30     | Jan 1
+Dec 30     | Jan 30
+Dec 30     | Jan 31
+Dec 31     | Jan 1
+Dec 31     | Jan 30
+Dec 31     | Jan 31
+
+Leap Into Non-Leap
+(2024 Into 2025)
+==================
+Start Date | End Date
+-----------+---------
+Dec 29     | Jan 1
+Dec 29     | Jan 29
+Dec 29     | Jan 30
+Dec 29     | Jan 31
+Dec 30     | Jan 1
+Dec 30     | Jan 30
+Dec 30     | Jan 31
+Dec 31     | Jan 1
+Dec 31     | Jan 30
+Dec 31     | Jan 31
+
+Non-Leap Into Non-Leap
+(2024 Into 2025)
+======================
+Start Date | End Date
+-----------+---------
+Dec 29     | Jan 1
+Dec 29     | Jan 29
+Dec 29     | Jan 30
+Dec 29     | Jan 31
+Dec 30     | Jan 1
+Dec 30     | Jan 30
+Dec 30     | Jan 31
+Dec 31     | Jan 1
+Dec 31     | Jan 30
+Dec 31     | Jan 31
